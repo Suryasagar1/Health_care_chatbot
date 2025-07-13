@@ -1,0 +1,5 @@
+{
+  "name": "Healthcare Assistant Chatbot",
+  "description": "A sophisticated AI-powered healthcare chatbot designed to provide general health information and answer user queries in a conversational manner. It features a clean, modern interface with chat history and topic suggestions.",
+  "requestFramePermissions": []
+}
